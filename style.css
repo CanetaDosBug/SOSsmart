@@ -148,8 +148,8 @@ body {
 }
 
 .hero2 img {
-  width: 70%;
-  height: 200px;
+  width: auto;
+  height: auto;
   object-fit: cover;
   border-radius: 10px;
   object-position: center bottom;
